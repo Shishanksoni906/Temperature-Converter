@@ -1,0 +1,48 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(148, 74, 148);
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    color: silver;font-size: 60px;
+}
+.container__header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: aliceblue;
+}
+.number-1{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    padding-right: 30px;
+}
+.number-2{
+    display: inline;
+    align-items:  center;
+    justify-content: center;
+    margin-top: 10%;
+    padding-left: 30px;
+}
+.inp_1{
+    display: inline;
+    padding: 5px 10px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 150px;
+    
+}
+.lab{
+    font-size: 30px;
+    box-shadow: indigo;
+
+    
+}
